@@ -45,7 +45,7 @@ function App() {
         <div className="top-content">
           <div>
             <h2>BMI Calculator</h2>
-            <p>Help you to measure your ideal body mass</p>
+            <p>Help you to measure your body mass index</p>
             <a href="#bmi"><button className="start-btn">Get Started ✨</button></a>
             <a href="#info"><button className="info-btn">Information 📘</button></a>
           </div>
